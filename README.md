@@ -9,4 +9,4 @@ I’m a Dutch web engineer with Slavic roots. Currently based in Ukraine.
 
 ---
 
-[Blog](https://mxgrn.com) | [Twitter](https://twitter.com/mxgrn)
+[Blog](https://mxgrn.com) | [Twitter (Elixir)](https://twitter.com/elixirfun) | [Twitter (Personal)](https://twitter.com/mxgrn)
