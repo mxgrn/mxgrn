@@ -6,7 +6,7 @@ I’m a Dutch web engineer with Slavic roots. Currently based in Kyiv.
 
 * [BotPresto](https://botpresto.com) - The Missing Toolkit for Your Telegram Bots.
 * [Geektrack](https://geektrack.mxgrn.com/) - Telegram-based All-in-one Personal Life Tracker.
-* [Pairs](https://github.com/mxgrn/pairs.one) - Web-based Concentration Game, Multiplayer and Registration-free.
+* [pairs.one](https://pairs.one) - Web-based Concentration Game, Multiplayer and Registration-free ([open source](https://github.com/mxgrn/pairs.one)).
 * [lexicorn.ai](https://lexicorn.ai) - AI-powered vocabulary builder Telegram bot.
 
 ---
