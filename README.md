@@ -12,4 +12,5 @@ I'm a Dutch web engineer with Slavic roots. Currently based in Kyiv, but mostly 
 
 ---
 
-[Blog](https://mxgrn.com) | [Twitter (Elixir)](https://twitter.com/elixirboy) | [Bsky (Elixir)](https://bsky.app/profile/mxgrn.com) | [Twitter (Personal)](https://twitter.com/mxgrn)
+[Blog](https://mxgrn.com) | [Twitter (Elixir)](https://twitter.com/elixirtap) | [Bsky (Elixir)](https://bsky.app/profile/mxgrn.com) | [Twitter (Personal)](https://twitter.com/mxgrn)
+
