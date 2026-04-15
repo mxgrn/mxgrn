@@ -1,6 +1,6 @@
 # Max Gorin
 
-I'm a Dutch web engineer with Slavic roots. Currently based in Kyiv, but mostly on the road.
+I'm a Dutch web engineer with Slavic roots. Currently based in Kyiv, Ukraine 🇺🇦 -- but mostly on the road.
 
 ## Some of my projects
 
